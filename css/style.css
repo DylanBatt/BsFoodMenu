@@ -107,9 +107,16 @@ body {
     font-weight: bold;
 }
 
-.icon-50 
+/* .icon-50 
 { 
-    font-size: 35px; 
+    font-size: 30px; 
+} */
+
+/* Optional CSS for smoother transitions */
+#flash-icon {
+    transition: opacity 0.5s ease-in-out;
+    font-size: 32px;
+    color: #ff0000; /* Red color example */
 }
 
 
