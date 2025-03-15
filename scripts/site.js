@@ -13,7 +13,7 @@ function flashIcon() {
     setTimeout(() => {
         clearInterval(flashInterval);
         icon.style.opacity = '1'; // Ensure it's visible when stopped
-    }, 5000);
+    }, 30000);
 }
 
 // Start flashing when page loads
