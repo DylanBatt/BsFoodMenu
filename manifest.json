@@ -3,7 +3,7 @@
     "short_name": "B's Menu",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#B9B8A4",
+    "background_color": "#f7f7f7",
     "description": "Online Menu For B's Butty Van",
     "icons": [
         {
