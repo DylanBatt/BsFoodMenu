@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #B9B8A4;
+    background-color: #c5c6bf;
     font-family: Arial, sans-serif;
     min-height: 100vh;
     padding: 20px;
@@ -23,7 +23,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background: #B9B8A4;
+    background: #c5c6bf;
     padding: 15px 0;
     z-index: 1000;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
@@ -61,7 +61,7 @@ body {
     
     border: 3px solid #202223;
     padding: 0px;
-    background-color: #B9B8A4;
+    background-color: #c5c6bf;
     border-radius: 0px;
     margin: 0 auto; 
     max-width: 320px;
